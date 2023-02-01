@@ -1,0 +1,22 @@
+/* 
+    .content{
+        display: grid;
+        gap: 50px;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-areas: 
+        "incomeTr balanceTr balanceTr expenseTr"
+        "incomeTr balanceTr balanceTr expenseTr";
+       
+    }
+
+    #incomeTr{
+
+    }
+
+    #balanceTr{
+        
+    }
+
+    #expenseTr{
+        
+    } */
