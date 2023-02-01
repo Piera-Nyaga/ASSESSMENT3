@@ -1,5 +1,5 @@
-/* 
-    .content{
+
+    /* .content{
         display: grid;
         gap: 50px;
         grid-template-columns: repeat(4, 1fr);
@@ -7,7 +7,7 @@
         "incomeTr balanceTr balanceTr expenseTr"
         "incomeTr balanceTr balanceTr expenseTr";
        
-    }
+    } */
 
     #incomeTr{
 
@@ -19,4 +19,4 @@
 
     #expenseTr{
         
-    } */
+    }
